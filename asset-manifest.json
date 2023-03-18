@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//ilonafedorenko.github.io/goit-react-hw-01-components/static/css/main.b09e0365.css",
-    "main.js": "//ilonafedorenko.github.io/goit-react-hw-01-components/static/js/main.0d2d2696.js",
-    "index.html": "//ilonafedorenko.github.io/goit-react-hw-01-components/index.html",
-    "main.b09e0365.css.map": "//ilonafedorenko.github.io/goit-react-hw-01-components/static/css/main.b09e0365.css.map",
-    "main.0d2d2696.js.map": "//ilonafedorenko.github.io/goit-react-hw-01-components/static/js/main.0d2d2696.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.b09e0365.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.0d2d2696.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.b09e0365.css.map": "/goit-react-hw-01-components/static/css/main.b09e0365.css.map",
+    "main.0d2d2696.js.map": "/goit-react-hw-01-components/static/js/main.0d2d2696.js.map"
   },
   "entrypoints": [
     "static/css/main.b09e0365.css",
