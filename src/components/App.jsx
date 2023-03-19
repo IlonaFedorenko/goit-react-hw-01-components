@@ -1,14 +1,14 @@
-import Profile from './Profile/Profile';
-import user from '../confings/user.json';
+import Profile from 'components/Profile/Profile';
+import user from 'data/user.json';
 
-import Statistics from './Statistics/Statistics';
-import data from '../confings/data.json';
+import Statistics from 'components/Statistics/Statistics';
+import data from 'data/data.json';
 
-import FriendList from './FriendList/FriendList';
-import friends from '../confings/friends.json';
+import FriendList from 'components/FriendList/FriendList';
+import friends from 'data/friends.json';
 
-import TransactionHistory from './TransactionHistory/TransationHistory';
-import transactions from '../confings/transactions.json';
+import TransactionHistory from 'components/TransactionHistory/TransationHistory';
+import transactions from 'data/transactions.json';
 
 export const App = () => {
   return (
@@ -22,9 +22,7 @@ export const App = () => {
       />
       <Statistics title="Upload stats" stats={data} />
       <FriendList friends={friends} />
-      <TransactionHistory items={transactions} />;  
+      <TransactionHistory items={transactions} />;
     </>
   );
 };
-
-
